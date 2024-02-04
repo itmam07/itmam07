@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
+<!--<a href="https://www.hitwebcounter.com" target="_blank">-->
 ![Visitors](https://hitwebcounter.com/counter/counter.php?page=11182268&style=0005&nbdigits=5&type=page&initCount=0)     
 
 <!--
