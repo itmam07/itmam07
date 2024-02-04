@@ -2,7 +2,7 @@
 
 <!-- hitwebcounter Code START -->
 <!--<a href="https://www.hitwebcounter.com" target="_blank">-->
-![Visitors](https://hitwebcounter.com/counter/counter.php?page=11182268&style=0005&nbdigits=5&type=page&initCount=0)     
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 **itmam07/itmam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
