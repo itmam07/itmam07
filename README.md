@@ -5,7 +5,7 @@
 
 ## about me
 
-> i ~~use~~ *sue* arch btw
+> ?
 
 ### languages
 
@@ -15,18 +15,6 @@
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-
-### socials
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-
-
-### hobbies
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
-[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
-[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)
 
 <details>
     <summary>frameworks</summary></br>
@@ -63,20 +51,3 @@
   [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)
 
 </details>
-
-
-## stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats-tau-nine-67.vercel.app/api?username=itmam07&theme=prussian&show_icons=true&count_private=false" alt="itmam07's Stats" width="" height="200">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itmam07&theme=prussian" alt="itmam07's Stats" width="" height="200">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmam07&theme=prussian&show_icons=true&hide_progress=true" alt="itmam07's Stats" width="" height="200">
-
-</div>
-
-## gists
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=11a314caee278a1d661f13e48957dfaf)](https://gist.github.com/itmam07/11a314caee278a1d661f13e48957dfaf/)
