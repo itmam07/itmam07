@@ -1,11 +1,8 @@
-# Hi there 👋
-
-##### you are visitior number:
-![Visitor Count](https://profile-counter.glitch.me/itmam07/count.svg)
+# Hi, I'm Itmam Alam
 
 ## about me
-
-> ?
+I am a CompSc student at HTL Wiener Neustadt and competitive roboticist with recent 1st and 3rd place finishes at ECER and GCER. 
+While my core expertise lies in Python, C++, and robotics, I am actively expanding my skillset into Artificial Intelligence, Cybersecurity, and DevOps.
 
 ### languages
 
